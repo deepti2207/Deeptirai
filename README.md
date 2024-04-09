@@ -1,6 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-<h1 align="center">Hi 👋, I'm Deepti Rai</h
+
+<h1 align="center">Hi 👋, I'm Deepti Rai</h1>
+                                         
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&exph=600&expw=800&q=animated+coding+gif&simid=608020121196497765&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=9&itb=0">
 
