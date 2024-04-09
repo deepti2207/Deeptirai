@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepti Rai</h1>
                                          
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&exph=600&expw=800&q=animated+coding+gif&simid=608020121196497765&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=9&itb=0">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti2207&label=Profile%20views&color=0e75b6&style=flat" alt="deepti2207" /> </p>
